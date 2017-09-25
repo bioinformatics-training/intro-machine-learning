@@ -1,6 +1,7 @@
 # Introduction {#intro}
 
 ## What is machine learning?
+Computers, more precisely, algorithms, to see patterns and learn concepts from data - without being explicitly programmed.
 
 
 ## The caret package
