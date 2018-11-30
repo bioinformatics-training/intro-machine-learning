@@ -15,6 +15,7 @@ There are two ways to meaningfully intepret data and they are
 We are here to discuss the later approach using machine learning (ML) approaches. 
 
 ## What is machine learning?
+Computers, more precisely, algorithms, to see patterns and learn concepts from data - without being explicitly programmed.
 
 We use - computers - more precisely - algorithms to see patterns and learn concepts from data - without being explicitly programmed.
 
